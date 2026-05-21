@@ -1,1 +1,21 @@
 /* Start coding here */
+@font-face {
+    font-family: iannnnnCPU;
+    src: url('./fonts/2005_iannnnnCPU.ttf')
+  }
+
+  * {
+    font-family: iannnnnCPU;
+  }
+
+  #title {
+    font-size: 3rem;
+  }
+
+  .eng-description {
+    font-size: 1.5rem;
+  }
+
+  .thai-description {
+    font-size: 1.5rem;
+  }
